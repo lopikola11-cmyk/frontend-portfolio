@@ -8,20 +8,23 @@ I focus on building clean, functional, and responsive applications while continu
 
 ## 📂 Projects
 
-- **🛒 Amazon Clone**  
-  [View Repository](https://github.com/username/amazon-clone) | Demo: [Live Site](https://username.github.io/amazon-clone)
-
-- **📝 ToDo Planner (LocalStorage)**  
-  [View Repository](https://github.com/username/todo-planner) | Demo: [Live Site](https://username.github.io/todo-planner)
-
 - **🧮 Calculator**  
-  [View Repository](https://github.com/username/calculator) | Demo: [Live Site](https://username.github.io/calculator)
-
-- **✊ Rock-Paper-Scissors Game**  
-  [View Repository](https://github.com/username/rock-paper-scissors) | Demo: [Live Site](https://username.github.io/rock-paper-scissors)
+  [View Repository](https://github.com/lopikola11-cmyk/Calculator) | [Live Demo](https://lopikola11-cmyk.github.io/Calculator/)
 
 - **💡 Big Tech Paths**  
-  [View Repository](https://github.com/username/big-tech-paths)
+  [View Repository](https://github.com/lopikola11-cmyk/big-tech-paths) | [Live Demo](https://lopikola11-cmyk.github.io/big-tech-paths/)
+
+- **📝 ToDo Planner (LocalStorage)**  
+  [View Repository](https://github.com/lopikola11-cmyk/todo-planner-localstorage) | [Live Demo](https://lopikola11-cmyk.github.io/todo-planner-localstorage/)
+
+- **✊ Rock-Paper-Scissors (AutoPlay + LocalStorage)**  
+  [View Repository](https://github.com/lopikola11-cmyk/rps-autoplay-localstorage) | [Live Demo](https://lopikola11-cmyk.github.io/rps-autoplay-localstorage/)
+
+- **🛒 Amazon Clone (Vanilla JS)**  
+  [View Repository](https://github.com/lopikola11-cmyk/vanilla-amazon-clone) | [Live Demo](https://lopikola11-cmyk.github.io/vanilla-amazon-clone/)
+
+- **📚 Data Structures & Algorithms Practice**  
+  [View Repository](https://github.com/lopikola11-cmyk/javascript-data-structures-algorithms-practice)
 
 ---
 
@@ -29,7 +32,7 @@ I focus on building clean, functional, and responsive applications while continu
 - HTML5 / CSS3  
 - JavaScript (ES6+)  
 - Git & GitHub  
-- Data Structures & Algorithms (learned after completing these projects)  
+- Data Structures & Algorithms (learned after completing these projects)
 
 ---
 
@@ -37,18 +40,17 @@ I focus on building clean, functional, and responsive applications while continu
 All of these projects were built **completely by hand without AI assistance**.  
 My main goal was to strengthen my **foundations** in HTML, CSS, and JavaScript.  
 
-📌 These projects were created **before I learned Data Structures, Algorithms, and code annotations**.  
-Later, I realized the importance of **server-side thinking** and **code optimization**,  
-so in the future I plan to revisit my projects and integrate these concepts.  
-
-I believe in mastering the fundamentals first.  
-From there, I’ll use **AI tools** and advanced techniques to build faster and more scalable applications.
+📌 These projects were created **before I learned Data Structures, Algorithms, and annotations**.  
+Later, I realized the importance of **server-side thinking** and **code optimization**.  
+In the future, I plan to revisit these projects, integrate advanced concepts, and also leverage **AI tools** to build faster and more scalable applications.  
 
 ---
 
 ## 📬 Contact
-- **GitHub**: [lopikola11](https://github.com/lopikola11)    
+- **GitHub**: [lopikola11](https://github.com/lopikola11)  
+- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)  
 - **Email**: lopikola11@gmail.com  
+
 ---
 
 ✨ Always eager to learn new technologies like React, TypeScript, and Node.js, and excited to contribute to real-world projects.
