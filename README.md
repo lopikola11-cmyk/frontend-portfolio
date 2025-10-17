@@ -48,7 +48,7 @@ In the future, I plan to revisit these projects, integrate advanced concepts, an
 
 ## 📬 Contact
 - **GitHub**: [lopikola11](https://github.com/lopikola11)  
-- **LinkedIn**: [linkedin.com/in/username](https://linkedin.com/in/username)  
+- **LinkedIn**: [linkedin.com/in/username](linkedin.com/in/ali-alpha-49912038b)  
 - **Email**: lopikola11@gmail.com  
 
 ---
