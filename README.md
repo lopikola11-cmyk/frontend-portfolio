@@ -31,9 +31,10 @@ I focus on building clean, functional, and responsive applications while continu
 ## 🛠️ Skills
 - HTML5 / CSS3  
 - JavaScript (ES6+)  
-- Git & GitHub  
-- Data Structures & Algorithms (learned after completing these projects)
+- Git & GitHub
 - Responsive Web Design
+- Data Structures & Algorithms (learned after completing these projects)
+
 
 ---
 
