@@ -33,6 +33,7 @@ I focus on building clean, functional, and responsive applications while continu
 - JavaScript (ES6+)  
 - Git & GitHub  
 - Data Structures & Algorithms (learned after completing these projects)
+- Responsive Web Design
 
 ---
 
