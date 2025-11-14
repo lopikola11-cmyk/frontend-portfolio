@@ -70,7 +70,7 @@ I focus on building clean, functional, and responsive applications while continu
 All of these projects were built **completely by hand without AI assistance**.  
 My main goal was to strengthen my **foundations** in HTML, CSS, and JavaScript.  
 
-📌 These projects were created **before I learned Data Structures, Algorithms, and annotations**.  
+📌 vanilla javascript  projects were created **before I learned Data Structures, Algorithms, andbig O notations**.  
 Later, I realized the importance of **server-side thinking** and **code optimization**.  
 In the future, I plan to revisit these projects, integrate advanced concepts, and also leverage **AI tools** to build faster and more scalable applications.
 
