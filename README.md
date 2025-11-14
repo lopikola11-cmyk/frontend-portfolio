@@ -9,27 +9,27 @@ I focus on building clean, functional, and responsive applications while continu
 ## 📂 Projects
 
 ### [🧮 Calculator](https://github.com/lopikola11-cmyk/Calculator)  
-🔗 **Live Demo:** https://lopikola11-cmyk.github.io/Calculator/
+🔗 **[Live Demo](https://lopikola11-cmyk.github.io/Calculator/)**
 
 ---
 
 ### [💡 Big Tech Paths](https://github.com/lopikola11-cmyk/big-tech-paths)  
-🔗 **Live Demo:** https://lopikola11-cmyk.github.io/big-tech-paths/
+🔗 **[Live Demo](https://lopikola11-cmyk.github.io/big-tech-paths/)**
 
 ---
 
 ### [📝 ToDo Planner (LocalStorage)](https://github.com/lopikola11-cmyk/todo-planner-localstorage)  
-🔗 **Live Demo:** https://lopikola11-cmyk.github.io/todo-planner-localstorage/
+🔗 **[Live Demo](https://lopikola11-cmyk.github.io/todo-planner-localstorage/)**
 
 ---
 
 ### [✊ Rock-Paper-Scissors (AutoPlay + LocalStorage)](https://github.com/lopikola11-cmyk/rps-autoplay-localstorage)  
-🔗 **Live Demo:** https://lopikola11-cmyk.github.io/rps-autoplay-localstorage/
+🔗 **[Live Demo](https://lopikola11-cmyk.github.io/rps-autoplay-localstorage/)**
 
 ---
 
 ### [🛒 Amazon Clone (Vanilla JS)](https://github.com/lopikola11-cmyk/vanilla-amazon-clone)  
-🔗 **Live Demo:** https://lopikola11-cmyk.github.io/vanilla-amazon-clone/
+🔗 **[Live Demo](https://lopikola11-cmyk.github.io/vanilla-amazon-clone/)**
 
 ---
 
@@ -54,7 +54,7 @@ I focus on building clean, functional, and responsive applications while continu
 - Rendering Lists  
 - **useState (Hook)**  
 - **useEffect (basic usage)**  
-- Component-based UI structure  
+- Component-Based UI Structure  
 
 ### **Tools**
 - Git & GitHub  
