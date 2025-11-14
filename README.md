@@ -27,20 +27,28 @@ I focus on building clean, functional, and responsive applications while continu
   [View Repository](https://github.com/lopikola11-cmyk/javascript-data-structures-algorithms-practice)
 
 ---
+🛠️ Skills
+Core Front-End
+-HTML5 / CSS3
+-JavaScript (ES6+)
+-Responsive Web Design
+-DOM Manipulation
+-LocalStorage
+Fetch API
 
-## 🛠️ Skills
-- HTML5 / CSS3  
-- JavaScript (ES6+)  
-- Git & GitHub
-- Responsive Web Design
-- Data Structures & Algorithms (learned after completing these projects)
-
+React (New Skills)
+-JSX
+-React Components
+-Props
+-Basic Hooks (useState, useEffect,useRef)tes
+-Rendering Lists
+-Component-Based UI Architecture
 
 ---
 
 ## 🔎 Note
-All of these projects were built **completely by hand without AI assistance**.  
-My main goal was to strengthen my **foundations** in HTML, CSS, and JavaScript.  
+All of first projects(vanilla javascript)  were built **completely by hand without AI assistance**.  
+My main goal was to strengthen my **foundations** in HTML, CSS, and JavaScript.   
 
 📌 These projects were created **before I learned Data Structures, Algorithms, and annotations**.  
 Later, I realized the importance of **server-side thinking** and **code optimization**.  
@@ -55,4 +63,4 @@ In the future, I plan to revisit these projects, integrate advanced concepts, an
 
 ---
 
-✨ Always eager to learn new technologies like React, TypeScript, and Node.js, and excited to contribute to real-world projects.
+✨ Always eager to learn new technologies like React, TypeScript,Next.js and Node.js, and excited to contribute to real-world projects.
