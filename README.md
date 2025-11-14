@@ -8,39 +8,32 @@ I focus on building clean, functional, and responsive applications while continu
 
 ## 📂 Projects
 
-### 🧮 Calculator  
-**Repository:** https://github.com/lopikola11-cmyk/Calculator  
-**Live Demo:** https://lopikola11-cmyk.github.io/Calculator/
+### [🧮 Calculator](https://github.com/lopikola11-cmyk/Calculator)  
+🔗 **Live Demo:** https://lopikola11-cmyk.github.io/Calculator/
 
 ---
 
-### 💡 Big Tech Paths  
-**Repository:** https://github.com/lopikola11-cmyk/big-tech-paths  
-**Live Demo:** https://lopikola11-cmyk.github.io/big-tech-paths/
+### [💡 Big Tech Paths](https://github.com/lopikola11-cmyk/big-tech-paths)  
+🔗 **Live Demo:** https://lopikola11-cmyk.github.io/big-tech-paths/
 
 ---
 
-### 📝 ToDo Planner (LocalStorage)  
-**Repository:** https://github.com/lopikola11-cmyk/todo-planner-localstorage  
-**Live Demo:** https://lopikola11-cmyk.github.io/todo-planner-localstorage/
+### [📝 ToDo Planner (LocalStorage)](https://github.com/lopikola11-cmyk/todo-planner-localstorage)  
+🔗 **Live Demo:** https://lopikola11-cmyk.github.io/todo-planner-localstorage/
 
 ---
 
-### ✊ Rock-Paper-Scissors (AutoPlay + LocalStorage)  
-**Repository:** https://github.com/lopikola11-cmyk/rps-autoplay-localstorage  
-**Live Demo:** https://lopikola11-cmyk.github.io/rps-autoplay-localstorage/
+### [✊ Rock-Paper-Scissors (AutoPlay + LocalStorage)](https://github.com/lopikola11-cmyk/rps-autoplay-localstorage)  
+🔗 **Live Demo:** https://lopikola11-cmyk.github.io/rps-autoplay-localstorage/
 
 ---
 
-### 🛒 Amazon Clone (Vanilla JS)  
-**Repository:** https://github.com/lopikola11-cmyk/vanilla-amazon-clone  
-**Live Demo:** https://lopikola11-cmyk.github.io/vanilla-amazon-clone/
+### [🛒 Amazon Clone (Vanilla JS)](https://github.com/lopikola11-cmyk/vanilla-amazon-clone)  
+🔗 **Live Demo:** https://lopikola11-cmyk.github.io/vanilla-amazon-clone/
 
 ---
 
-### 📚 Data Structures & Algorithms Practice  
-**Repository:**  
-https://github.com/lopikola11-cmyk/javascript-data-structures-algorithms-practice
+### [📚 Data Structures & Algorithms Practice](https://github.com/lopikola11-cmyk/javascript-data-structures-algorithms-practice)
 
 ---
 
@@ -61,11 +54,11 @@ https://github.com/lopikola11-cmyk/javascript-data-structures-algorithms-practic
 - Rendering Lists  
 - **useState (Hook)**  
 - **useEffect (basic usage)**  
-- Component-Based UI Architecture  
+- Component-based UI structure  
 
 ### **Tools**
 - Git & GitHub  
-- Debugging & Console Testing  
+- Debugging / Console Testing  
 - ES6 Imports / Modules  
 
 ### **Computer Science**
@@ -79,7 +72,7 @@ My main goal was to strengthen my **foundations** in HTML, CSS, and JavaScript.
 
 📌 These projects were created **before I learned Data Structures, Algorithms, and annotations**.  
 Later, I realized the importance of **server-side thinking** and **code optimization**.  
-In the future, I plan to revisit these projects, integrate advanced concepts, and also leverage **AI tools** to build faster and more scalable applications.  
+In the future, I plan to revisit these projects, integrate advanced concepts, and also leverage **AI tools** to build faster and more scalable applications.
 
 ---
 
