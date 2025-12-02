@@ -1,142 +1,165 @@
-# 🚀 **Portfolio – Abderrahman Zerouali**  
-Welcome to my coding portfolio!
+# 🚀 Front-End Portfolio – Abderrahman Zerouali
 
-This repository showcases my journey as a **self-taught Front-End Developer** through fully hand-coded and professionally structured projects.  
-I focus on building clean, scalable, and maintainable applications — while constantly improving my architecture, logic, and problem-solving skills.
+Welcome to my portfolio!  
+This repository showcases my work as a **self-taught Front-End Developer** specializing in **React**, **JavaScript**, clean architecture, state management, and scalable UI systems.
 
----
-
-# 🌟 **Projects**
+I build everything from scratch — no templates, no shortcuts — and I constantly use AI the same way real engineers do: as a **debugging partner**, not a copy machine.
 
 ---
 
-## 🔥 **ABDouchat – Multi-Chat AI System (React + Vite)** *(100% Designed & Built by Me)*  
-**My most advanced React project — a professional, scalable chat architecture.**
+# 🌟 Projects
+
+## 🛒 Amazon Clone – React + Vite + Backend API
+**My most advanced full project so far — real frontend + backend integration.**
+
+- **Repository:** https://github.com/lopikola11-cmyk/amazon-clone-react-vite  
+- **Stack:** React 18, Vite, Axios, React Router, day.js, Node.js API  
+- **Highlights:**  
+  - Dynamic product pages  
+  - Order tracking page with URL params  
+  - Backend API integration  
+  - Real product/quantity/delivery rendering  
+  - Clean React component structure  
+  - Full project state flow and debugging  
+  - Professional README and screenshots  
+- This project represents my leap into **React with real backend data**.
+
+---
+
+## 🔥 ABDouchat – Multi-Chat AI System (React + Vite)
+**My most scalable React project — full multi-chat architecture.**
 
 - **Live Demo:** https://lopikola11-cmyk.github.io/vite-project  
 - **Repository:** https://github.com/lopikola11-cmyk/vite-project  
-- **Stack:** React 18, Vite, Hooks, URLSearchParams, localStorage, crypto.randomUUID()  
-- **Key Highlights:**  
-  - Multi-chat system with unique chat IDs  
-  - **URL-based routing** (`?id=chatID`)  
-  - Full **localStorage persistence**  
-  - Sync between **URL ↔ State ↔ UI ↔ Storage**  
-  - Delete chats + auto-create + welcome animation  
-  - Extremely scalable component architecture  
-  - Future-ready for real backend or AI API
-
-This project represents my evolution into professional-grade front-end engineering.
+- **Stack:** React, Vite, Hooks, URLSearchParams, localStorage  
+- **Highlights:**  
+  - Multiple chat sessions with unique IDs  
+  - URL-based routing (`?id=chatID`)  
+  - Persistent chatting system  
+  - Scalable component structure  
+  - Future-ready for backend/AI API  
+  - Real engineering-level state management  
 
 ---
 
-## 🤖 **AI React Chatbot – Original Multi-Chat System**  
-**My First React Project — Invented My Own Routing Logic**
+## 🤖 AI React Chatbot – Original Multi-Chat System
+**My first major React project — invented my own routing logic.**
 
 - **Live Demo:** https://lopikola11-cmyk.github.io/my-Ai-react-chat-project/  
 - **Repo:** https://github.com/lopikola11-cmyk/my-Ai-react-chat-project  
-- **Built With:** React (CDN), useState, useEffect, localStorage, history.pushState  
-- **Why It’s Unique:**  
-  - I invented the concept of **URL-based chat sessions** without React Router  
-  - Full persistent multi-chat system  
-  - Auto-save + delete + smooth UI logic  
-  - Debugged intelligently using AI tools  
+- **Stack:** React (CDN), useState, useEffect, localStorage  
+- **Highlights:**  
+  - Built multi-chat logic without React Router  
+  - URL session syncing  
+  - Persistent chat history  
+  - Smart, bug-free UI flow  
 
 ---
 
-## 🧮 **Calculator (JavaScript)**  
-- **Live Demo:** https://lopikola11-cmyk.github.io/Calculator/  
+## 🛒 Amazon Clone (Vanilla JS)
+- **Live Demo:** https://lopikola11-cmyk.github.io/vanilla-amazon-clone/  
+- Full cart, checkout, and products system built from scratch.
 
 ---
 
-## 🧭 **Big Tech Paths – Responsive Website**  
-- **Live Demo:** https://lopikola11-cmyk.github.io/big-tech-paths/  
-
----
-
-## 📝 **ToDo Planner – LocalStorage**  
-- **Live Demo:** https://lopikola11-cmyk.github.io/todo-planner-localstorage/  
-
----
-
-## 🎮 **Rock-Paper-Scissors (AutoPlay + LocalStorage)**  
+## 🎮 Rock-Paper-Scissors (AutoPlay + LocalStorage)
 - **Live Demo:** https://lopikola11-cmyk.github.io/rps-autoplay-localstorage/  
 
 ---
 
-## 🛒 **Amazon Clone (Vanilla JS)**  
-- **Live Demo:** https://lopikola11-cmyk.github.io/vanilla-amazon-clone/  
+## 📝 ToDo Planner (LocalStorage)
+- **Live Demo:** https://lopikola11-cmyk.github.io/todo-planner-localstorage/  
 
 ---
 
-## 📚 **Data Structures & Algorithms Practice**  
-- **Repo:** https://github.com/lopikola11-cmyk/javascript-data-structures-algorithms-practice  
+## 🧭 Big Tech Paths – Responsive Website
+- **Live Demo:** https://lopikola11-cmyk.github.io/big-tech-paths/  
 
 ---
 
-# 🧠 **Skills**
+## 🧮 Calculator (JavaScript)
+- **Live Demo:** https://lopikola11-cmyk.github.io/Calculator/  
 
-### **Core Front-End**
-- HTML5 / CSS3  
+---
+
+## 📚 Data Structures & Algorithms Practice
+- **Repository:**  
+  https://github.com/lopikola11-cmyk/javascript-data-structures-algorithms-practice
+
+---
+
+# 🧠 Skills
+
+## Core Front-End
+- HTML5, CSS3  
 - JavaScript (ES6+)  
-- Responsive Web Design  
 - DOM Manipulation  
+- Responsive Design  
 - LocalStorage  
-- Fetch API  
+- Fetch / Axios  
 
-### **React (Advanced & Growing)**
-- Components, JSX, Props, Composition  
+## React (Advanced & Growing)
+- Components, Props, JSX  
 - State Lifting  
-- **useState & useEffect (Mastered)**  
-- Conditional Rendering  
-- Lists & Keys  
-- Custom state syncing  
-- **Complex data flow architecture**  
+- useState, useEffect  
+- React Router  
+- Dynamic routing with URL params  
+- Handling nested backend data  
+- Complex UI data flow  
+- Full state synchronization patterns  
 
-### **Architecture & Advanced Logic**
-- **URL Parameter Routing (no React Router)**  
-- **State Persistence Systems**  
-- **LocalStorage + URL + State sync patterns**  
-- Scalable component structure  
-- Data flow planning  
+## Architecture & Logic
+- URL-driven state systems  
+- Multi-state synchronization (URL ↔ UI ↔ Storage)  
+- Component composition strategies  
+- Scalable folder structures  
+- API integration and debugging  
 
-### **Tools**
+## Tools
 - Git & GitHub  
-- AI-Assisted Debugging (ChatGPT + Grok)  
-- ES6 Modules  
-- GitHub Pages Deployment  
+- GitHub Pages deployment  
+- Vite  
+- Node.js  
+- AI-Assisted Development (professional-level prompt usage)
 
-### **Computer Science**
+## CS Foundations
 - Data Structures  
 - Algorithms  
-- Complexity (Big O)  
+- Big O Notation  
 
 ---
 
-# 💡 **About My Learning Philosophy**
-All my **Vanilla JS projects** were built entirely by hand — no templates, no frameworks — to master fundamentals deeply.
+# 💡 Learning Philosophy
 
-My React projects represent my evolution into **real front-end engineering**:
+I build everything manually — no templates — to master the fundamentals deeply.
 
-> _“I don’t use AI to copy code — I use AI to build smarter systems, debug faster, and scale further.”_
+My React projects reflect real front-end engineering thinking:  
+clean architecture, reusable components, state management, scalable routing, and intelligent debugging.
 
----
+**I use AI as a powerful coding partner, not a replacement for logic.**
 
-# 🎯 **Future Goals**
-- Full mobile responsiveness  
-- Dark & Light themes  
-- Real backend integrations  
-- Chat export/import feature  
-- TypeScript, Node.js, Express  
-- Building production-grade apps  
+> “I don’t copy code. I design systems.”
 
 ---
 
-# 📬 **Contact**
+# 🎯 Future Goals
+- Full REST API development  
+- Deploy backend (Render)  
+- Deploy frontend (Vercel)  
+- Authentication system  
+- TypeScript  
+- Express.js  
+- Full-stack applications  
+- Chat export/import features  
+
+---
+
+# 📬 Contact
+
 - **GitHub:** https://github.com/lopikola11-cmyk  
 - **LinkedIn:** https://linkedin.com/in/ali-alpha-49912038b  
 - **Email:** lopikola11@gmail.com  
 
 ---
 
-# 🚀 **I don’t just follow tutorials — I invent systems.**  
-**Let’s build the next big thing together.**
+# 🚀 Let’s build something great together.
