@@ -10,61 +10,60 @@ I use AI tools intelligently as debugging assistants, not as copy-paste shortcut
 
 # 🌟 Featured Projects
 
-## 🛒 Amazon Clone – React + Vite + Backend API  
-**My first full React project with real backend integration.**
+## 🛒 Amazon Clone – React + Vite + Backend API (Full Deployment)
+**My first full React project with real backend integration and real deployment.**
 
+- **Live Frontend (Vercel):** https://amazon-clone-react-vite.vercel.app/  
+- **Live Backend API (Render):** https://amazon-backend-dkf4.onrender.com/api/products  
 - **Repository:** https://github.com/lopikola11-cmyk/amazon-clone-react-vite  
-- **Stack:** React, Vite, Axios, React Router, day.js, Node.js API  
+- **Stack:** React, Vite, Axios, React Router, day.js, Node.js backend  
 - **Highlights:**  
-  - Order tracking page with URL query parameters  
-  - Dynamic product data (name, image, delivery date, quantities)  
-  - Full backend integration  
-  - Clean React component architecture  
-  - Real API endpoints for products and orders  
-  - Professional README with screenshots  
-  - Strong debugging, state lifting, and API handling experience  
+  - Real backend integration (GET, POST, PUT, DELETE)  
+  - Full cart system with quantities, delivery options, order placement  
+  - Tracking system using dynamic URL parameters  
+  - Clean React architecture with state lifting  
+  - Advanced debugging of API flows and deployment errors  
+  - Deployed **frontend on Vercel** and **backend on Render Free Tier**  
+  - Connected frontend ↔ backend using full production API URLs  
+  - Solved CORS, routing, proxy, and Git merge issues  
+  - Learned backend startup logs, server cold boots, deployment pipeline  
 
-This project represents my transition into **real front-end engineering + backend integration**.
+> I did **not** write the backend myself, but I learned how to run it locally, integrate it fully, debug it, and deploy it successfully — a major full-stack milestone.
+
+This project represents my transition into **real front-end engineering + backend integration + deployment**.
 
 ---
 
-## 🤖 ChatGPT Clone – Multi-Chat React System (ABDouchat)  
-**A ChatGPT-style multi-chat application built entirely from scratch.**
+## 🤖 ChatGPT Clone – Multi-Chat React System (ABDouchat)
+A ChatGPT-style multi-chat application built entirely from scratch.
 
 - **Live Demo:** https://lopikola11-cmyk.github.io/vite-project/  
 - **Repository:** https://github.com/lopikola11-cmyk/vite-project  
 - **Stack:** React, Vite, Hooks, URLSearchParams, localStorage  
 - **Highlights:**  
-  - Fully client-side ChatGPT-like architecture  
-  - Unlimited chat sessions with unique IDs  
-  - URL-based routing (`?id=<chat-id>`)  
-  - Persistent conversations stored in localStorage  
+  - Multi-chat system with unique URLs  
   - ChatGPT-style UI and conversation flow  
-  - Scalable component structure  
-  - Future-ready for AI APIs  
-  - 100% original logic and structure  
-
-One of my most advanced front-end systems — built with smart state management and clean architecture.
+  - Persistent chats stored in localStorage  
+  - Scalable component logic ready for real AI API integration  
 
 ---
 
-## 🔥 AI React Chatbot – Original Multi-Chat System  
-**My first React chat project, before building ABDouchat.**
+## 🔥 AI React Chatbot – Original Multi-Chat System
+My first React chat project, before building ABDouchat.
 
 - **Live Demo:** https://lopikola11-cmyk.github.io/my-Ai-react-chat-project/  
 - **Repo:** https://github.com/lopikola11-cmyk/my-Ai-react-chat-project  
-- **Stack:** React (CDN), useState, useEffect, localStorage  
 - **Highlights:**  
-  - Invented my own URL routing system without React Router  
+  - Built my own mini routing system without React Router  
   - Persistent multi-chat sessions  
-  - Smart UI + clean state logic  
-  - Strong debugging and problem-solving  
+  - Clean UI + smart conversation logic  
 
 ---
 
 ## 🛒 Amazon Clone (Vanilla JS)
 - **Live Demo:** https://lopikola11-cmyk.github.io/vanilla-amazon-clone/  
-A full shopping cart system built manually using pure JavaScript.
+
+Full shopping cart logic, built manually with pure JavaScript.
 
 ---
 
@@ -101,32 +100,40 @@ A full shopping cart system built manually using pure JavaScript.
 - Responsive Design  
 - DOM Manipulation  
 - LocalStorage  
-- Fetch & Axios  
+- Axios & Fetch  
+- API data integration  
 
 ## React (Advanced & Growing)
 - JSX, Components, Props  
 - useState, useEffect  
 - State Lifting  
-- React Router  
+- React Router (dynamic routes)  
 - URL parameter routing  
-- Handling nested backend data  
+- Nested backend data handling  
 - Clean component architecture  
-- Complex UI state flow  
+- UI re-render control  
 
-## Architecture & Logic
-- Multi-state synchronization  
-- URL-driven state systems  
-- LocalStorage persistence patterns  
-- Scalable folder structures  
-- API data mapping  
-- Debugging real project issues  
+## Backend Integration & Deployment
+- REST API CRUD integration (GET/POST/PUT/DELETE)  
+- Understanding Express-style backend APIs  
+- Debugging backend errors and logs  
+- Vite proxy vs. production URLs  
+- Deploying full-stack apps:
+  - **Frontend on Vercel**
+  - **Backend on Render**
+- Solving deployment issues:
+  - CORS problems  
+  - 404 routing  
+  - API proxy mismatches  
+  - Cold boot delays  
+  - Git merge conflicts  
 
 ## Tools
-- Git & GitHub  
+- Git & GitHub (advanced usage)  
 - Vite  
+- Node.js basics  
 - AI-assisted debugging (ChatGPT + Grok)  
 - GitHub Pages deployment  
-- Node.js basics  
 
 ## Computer Science
 - Data Structures  
@@ -140,21 +147,20 @@ A full shopping cart system built manually using pure JavaScript.
 I focus on understanding **how things work under the hood**.
 
 All my Vanilla JS apps were built by hand to master fundamentals.  
-My React apps show my growth into **true front-end engineering** through real architecture, real logic, and real problem-solving.
+My React apps show my growth into **true front-end engineering** through real architecture, real logic, and real debugging.
 
 > “I don’t use AI to copy code — I use it to think better, debug faster, and build bigger.”
 
 ---
 
 # 🎯 Future Goals
-- Full REST API development  
-- Deploy backend (Render)  
-- Deploy frontend (Vercel)  
-- Authentication  
+- Authentication (JWT / OAuth)  
 - TypeScript  
 - Express.js  
+- Databases (PostgreSQL / MongoDB)  
 - Full-stack applications  
-- Advanced chat features (export, search, themes)  
+- Advanced chat features (search, export, themes)  
+- More complex deployments and pipelines  
 
 ---
 
